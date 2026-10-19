@@ -1,0 +1,16 @@
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\bin\Debug\net10.0-windows\Consulta_expedientes.exe
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\bin\Debug\net10.0-windows\Consulta_expedientes.deps.json
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\bin\Debug\net10.0-windows\Consulta_expedientes.runtimeconfig.json
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\bin\Debug\net10.0-windows\Consulta_expedientes.dll
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\bin\Debug\net10.0-windows\Consulta_expedientes.pdb
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\obj\Debug\net10.0-windows\proyecto_2.Form1.resources
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\obj\Debug\net10.0-windows\Consulta_expedientes.csproj.GenerateResource.cache
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\obj\Debug\net10.0-windows\Consulta_expedientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\obj\Debug\net10.0-windows\Consulta_expedientes.AssemblyInfoInputs.cache
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\obj\Debug\net10.0-windows\Consulta_expedientes.AssemblyInfo.cs
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\obj\Debug\net10.0-windows\Consulta_expedientes.csproj.CoreCompileInputs.cache
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\obj\Debug\net10.0-windows\Consulta_expedientes.dll
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\obj\Debug\net10.0-windows\refint\Consulta_expedientes.dll
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\obj\Debug\net10.0-windows\Consulta_expedientes.pdb
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\obj\Debug\net10.0-windows\Consulta_expedientes.genruntimeconfig.cache
+C:\Users\inoce\Desktop\Desafío_FundProg\Consulta_expedientes\Consulta_exped\proyecto 2\obj\Debug\net10.0-windows\ref\Consulta_expedientes.dll
