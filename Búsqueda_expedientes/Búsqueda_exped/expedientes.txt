@@ -1,0 +1,4 @@
+EXP001|12345678|Ana Torres|Solicitud|Copia de documentos|2026-10-15
+EXP002|87654321|Luis Perez|Oficio|Consulta de expediente|2026-10-16
+EXP003|11223344|Maria Lopez|Reclamo|Reclamo administrativo|2026-10-17
+EXP004|44332211|Carlos Rojas|Carta|Solicitud de informacion|2026-10-18
